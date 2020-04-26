@@ -22,3 +22,5 @@
 - jacob要将对应版本的jacob-1.18-x64.dll 放到jdk/jre/bin (jacob-1.18.x.zip里面包括对应dll)
 - 用${xx} 来替换word中对应替换的内容
 - 图片要用base64转码
+- jacob 运行效率极低, 请注意是否使用
+- jacob 仅支持在windows上运行
