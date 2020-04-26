@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>imgToWord</artifactId>
+    <artifactId>freemarkerToWord</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>imgToWord</name>
